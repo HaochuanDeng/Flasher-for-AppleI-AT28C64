@@ -6,6 +6,7 @@ For this project, You have to use 89C52 to flash At28C64.
 
 
 This the connection of the flasher.
+
 ![image}(https://github.com/HaochuanDeng/Flasher-for-AppleI-AT28C64/blob/master/READMEMD/AT28C64%E7%89%A9%E7%90%86%E8%BF%9E%E6%8E%A5%E5%9B%BE.jpg)
 
 You can get all of the files from:https://pan.baidu.com/s/1ANYtGPoT_f07bnWdkPnI4A psw:b00k
